@@ -2,9 +2,9 @@
 
 Based in Istanbul. I bring field experience, design and automation together in solutions that can be put to work: browser-based CAD and simulation prototypes, products designed for 3D printing, technical files for solar and battery-storage projects, and the day-to-day operations of my own field-service business.
 
-**[ahmeterenguvercin.com](https://ahmeterenguvercin.com)** · [LinkedIn](https://www.linkedin.com/in/ahmeterenguvercin/) · [MakerWorld · Ribozom](https://makerworld.com/en/@Ribozom)
+🌐 **[ahmeterenguvercin.com](https://ahmeterenguvercin.com)** · [LinkedIn](https://www.linkedin.com/in/ahmeterenguvercin/) · [MakerWorld · Ribozom](https://makerworld.com/en/@Ribozom)
 
-## Four working prototypes
+## 🧪 Four working prototypes
 
 Each one starts from a real problem and states its limits. Each comes with tests, measurements and real output files, and each runs in the browser on my site.
 
@@ -41,7 +41,7 @@ Sizes a 3D scene for the device that opens it, by measuring what each smaller ve
 
 FORMTRACE and TRACEFORGE are the main projects; WEAVE and FRAMEPORT are narrower support projects.
 
-## Products
+## 📦 Products
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ A toothbrush and toothpaste organiser in five footprints, from a leaf to a five-
 
 Both are published under **Ribozom**, a brand I designed myself: name, logo, palette, listings and print guides.
 
-## Other work
+## ⚡ Other work
 
 **Energy.** Technical and commercial files for solar and battery-storage projects: feasibility and yield estimates with PVGIS, equipment lists, single-line diagrams, layouts and schedules. The range runs from rooftop feasibilities of 130 and 343 kWp to a 40 MWp ground-mount EPC proposal with single-axis trackers, plus battery-storage and transformer sourcing with manufacturers abroad, in English.
 
@@ -72,17 +72,17 @@ Both are published under **Ribozom**, a brand I designed myself: name, logo, pal
 
 **Small tools.** I look for the step that keeps repeating and build the smallest thing that removes it: a fifteen-line script that enters 300 marketplace tags in half a minute instead of 25, a renaming rule that previews every change and moves nothing until the preview is clean.
 
-## Tools I work with
+## 🛠️ Tools I work with
 
 JavaScript and TypeScript · React Native · Supabase and PostgreSQL · Python · OpenCascade · Automerge · Web Workers and WebAssembly · FreeCAD · Blender · Bambu Studio on a Bambu Lab P1S · PVGIS · Excel
 
-## Now
+## 📍 Now
 
 - Associate degree in electrical (2026); next step is Electrical and Electronics Engineering.
 - Battery-storage and transformer projects.
 - Bloom v2 and new models for MakerWorld.
 - Zilerno, a learning app with a guide called Zil, in development. Details stay under wraps until launch.
 
-English is my daily working language, Turkish is my native language, and I am building up my German.
+🗣️ English is my daily working language, Turkish is my native language, and I am building up my German.
 
 <sub>Most of my code lives in private repositories; the prototypes above run live on the site. · Türkçe için: <a href="https://ahmeterenguvercin.com/?lang=tr">ahmeterenguvercin.com/?lang=tr</a></sub>
